@@ -1,0 +1,8 @@
+# Example Feature Flag YAML file.
+#
+#
+---
+flags:
+  - name: example_1
+    enabled: true
+
